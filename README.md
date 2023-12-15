@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/elisha_smile" target="blank"><img src="https://img.shields.io/twitter/follow/elisha_smile?logo=twitter&style=for-the-badge" alt="elisha_smile" /></a> </p>
 
-- 🌱 I’m currently learning **SCSS WebPacks**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [github.com/elishasmil3](github.com/elishasmil3)
 
